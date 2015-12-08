@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">abcFlash</string>
+
+    <string name="txta">A</string>
+    <string name="txtb">B</string>
+    <string name="txtc">C</string>
+    <string name="txtd">D</string>
+    <string name="txte">E</string>
+    <string name="txtf">F</string>
+    <string name="txtg">G</string>
+    <string name="txth">H</string>
+    <string name="txti">I</string>
+    <string name="txtj">J</string>
+    <string name="txtk">K</string>
+    <string name="txtl">L</string>
+    <string name="txtm">M</string>
+    <string name="txtn">N</string>
+    <string name="txto">O</string>
+    <string name="txtp">P</string>
+    <string name="txtq">Q</string>
+    <string name="txtr">R</string>
+    <string name="txts">S</string>
+    <string name="txtt">T</string>
+    <string name="txtu">U</string>
+    <string name="txtv">V</string>
+    <string name="txtw">W</string>
+    <string name="txtx">X</string>
+    <string name="txty">Y</string>
+    <string name="txtz">Z</string>
+
+
+    <string name="txta2">a</string>
+    <string name="txtb2">b</string>
+    <string name="txtc2">c</string>
+    <string name="txtd2">d</string>
+    <string name="txte2">e</string>
+    <string name="txtf2">f</string>
+    <string name="txtg2">g</string>
+    <string name="txth2">h</string>
+    <string name="txti2">i</string>
+    <string name="txtj2">j</string>
+    <string name="txtk2">k</string>
+    <string name="txtl2">l</string>
+    <string name="txtm2">m</string>
+    <string name="txtn2">n</string>
+    <string name="txto2">o</string>
+    <string name="txtp2">p</string>
+    <string name="txtq2">q</string>
+    <string name="txtr2">r</string>
+    <string name="txts2">s</string>
+    <string name="txtt2">t</string>
+    <string name="txtu2">u</string>
+    <string name="txtv2">v</string>
+    <string name="txtw2">w</string>
+    <string name="txtx2">x</string>
+    <string name="txty2">y</string>
+    <string name="txtz2">z</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="abc">=</string>
+
+    <string name="test">\?</string>
+    <string name="title_activity_small">abc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_card">card</string>
+    <string name="title_activity_single_pic">SinglePic</string>
+    <string name="title_activity_splash">Abc Flash</string>
+
+</resources>
